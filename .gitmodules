@@ -1,0 +1,12 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/viktorvishyn369/PhotoLynk.git
+	update = none
+[submodule "mobile-v2"]
+	path = mobile-v2
+	url = https://github.com/viktorvishyn369/PhotoLynk.git
+	update = none
+[submodule "solana-dapp"]
+	path = solana-dapp
+	url = https://github.com/viktorvishyn369/PhotoLynk-SolanaMobile.git
+	update = none
